@@ -1,0 +1,18 @@
+/* CSS For DotNetNuke Skin by bestdnnskins.com / Copyright 2012 By BESTDNNSKINS.COM */
+/*-------- for all containers --------*/
+.c_icon, .c_title, .c_menu { float:left;}
+.c_title { max-width:95%;}
+.c_menu { padding-top:8px;}
+.c_help { float:right; padding-top:10px;}
+.c_content_style { display:inline-block; width:100%;}
+.c_footer { padding:0px 2px;}
+.c_footer_l {float:left;}
+.c_footer_r {float:right;}
+.c_footer_space { height:13px; line-height:13px; overflow:hidden;}
+.clear_float {clear:both;}
+
+/*-------- containers title --------*/
+.c_title_footer {font-weight:normal; font-size:20px; color:#FFFFFF; }
+.c_title_black {font-weight:bold; font-size:20px; color:#444444; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);}
+.c_title_white {font-weight:bold; font-size:20px; color:#FFFFFF; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4);}
+.c_title_SteelBlue {font-weight:bold; font-size:20px; color:#004280; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);}

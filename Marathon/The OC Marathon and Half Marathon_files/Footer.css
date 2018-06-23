@@ -1,0 +1,9 @@
+/* CSS For DotNetNuke Skin by bestdnnskins.com / Copyright 2012 By BESTDNNSKINS.COM */
+/*-------- footer --------*/
+.footer_style { min-width:180px;}
+.footer_head { padding:10px 0px;}
+.footer_content { padding:0px;}
+.footer_icon, .footer_title, .footer_menu { float:left;}
+.footer_title { max-width:95%;}
+.footer_help { float:right;}
+.footer_space { height:10px; line-height:10px; overflow:hidden;}

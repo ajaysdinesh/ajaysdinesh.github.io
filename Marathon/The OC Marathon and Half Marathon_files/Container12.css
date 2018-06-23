@@ -1,0 +1,8 @@
+/*-------- SteelBlue12 --------*/
+.SteelBlue12_style { min-width:160px; background:white; border-radius:4px; webkit-border-radius:4px; -moz-border-radius:4px; -webkit-box-shadow:0 0 5px rgba(0, 0, 0, 0.5);-moz-box-shadow:0 0 5px rgba(0, 0, 0, 0.5);box-shadow:0 0 5px rgba(0, 0, 0, 0.5);}
+.SteelBlue12_c_menu { float:left;}
+.SteelBlue12_c_help  { float:right; padding-top:8px;}
+.SteelBlue12_top_bg { background:url(images/color_bar.jpg) repeat-x left top; border-radius:4px 4px 0 0; webkit-border-radius:4px 4px 0 0; -moz-border-radius:4px 4px 0 0; height:40px; padding:0 15px;}
+.SteelBlue12_top_height { height:35px; line-height:35px;}
+.SteelBlue12_content { padding:6px 11px 8px 11px;}
+.SteelBlue12_footer { height:14px; line-height:14px; overflow:hidden;}

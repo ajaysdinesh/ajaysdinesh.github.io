@@ -1,0 +1,10 @@
+/*-------- SteelBlue08 --------*/
+.SteelBlue08_style { min-width:225px;    -webkit-box-shadow: 0px 0px 7px 0px #424242;
+        box-shadow: 0px 0px 7px 0px #424242; border-radius:4px 4px 4px 4px; -moz-border-radius:4px 4px 4px 4px; -webkit-border-radius:4px 4px 4px 4px; background-color:white; 	}
+.SteelBlue08_c_title { float:left;}
+.SteelBlue08_c_menu { float:left;}
+.SteelBlue08_c_help  { float:right; padding-top:8px;}
+.SteelBlue08_top_bg { background:transparent; background:url(images/logo-small.png) no-repeat left bottom, #004280; margin:0; height:41px; padding:0 60px 0 70px;border-radius:4px 4px 0px 0px; -moz-border-radius:4px 4px 0px 0px; -webkit-border-radius:4px 4px 0px 0px;}
+.SteelBlue08_top_height { height:41px; line-height:41px;}
+.SteelBlue08_content { padding:10px 10px 6px 10px;background-color:white;}
+.SteelBlue08_footer { height:14px; line-height:14px; overflow:hidden;}
