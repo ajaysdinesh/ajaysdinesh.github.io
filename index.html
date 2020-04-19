@@ -6,29 +6,83 @@
   <meta name="viewport" content="width=device-width">
   <h1 style="text-align: center"></h1>
 </head>
+<script src="https://kit.fontawesome.com/6e74303d41.js" crossorigin="anonymous"></script>
 <style>
+.img-circle {
+    border-radius: 60%;
+}
+
+/* Horizontal Icons */
+
+.icon-bar {
+ margin: auto;
+ width: 50%;
+ overflow: auto;
+ background-color: #444444;
+}
+
+.icon-bar a {
+ float: left;
+ width: 25%;
+ text-align: center;
+ padding: 12px 0;
+ transition: all 0.3s ease;
+ color: white;
+ font-size: 36px;
+}
+
+.icon-bar a:hover {
+ background-color: #aaaaaa;
+}
+
+.active {
+ background-color: #444444;
+}
+
+/*Vertical Icons
+
+.icon-bar {
+  width: 90px;
+  background-color: #666666;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+*/
+
 html {
   background-color: #000000;
   background-size: cover;
 }
 </style>
 <body>
-  <p style="font-family:helvetica;font-color: #ffffff ;font-size: 50px;text-align:center;">
-    <img src="myphoto1.jpg" alt="A beautiful photo of mine was supposed to be here. But your internet is too bad to load it." style="height:25%;width:25%;">
-    <br>Hi there(Change Made)!
-  </p>
-  <p style="font-family:helvetica;font-color: #ffffff;font-size: 40px;text-align:center;">
-    If you are reading this, you have reached this place because I wanted you to, or you are stalking me.
-    Because this is just an aspiring developer's basecamp which has nothing meaningful to give you, yet. 
-    The smiling guy you see up there is Ajay, he is an engineer, who will graduate from IIT Madras in 2020 with a Bachelor's degree
-    in Engineering Physics. He reads, not very much, but not very less either, about topics that he feels he is interested 
-    when he is browsing for a new book to read. Other than that, he watches TV series', sports and plays games like a normal person
-    would do. He loves playing chess and Queen's Gambit is his favourite at the moment. He is a fan of board games. He can whistle,make 
-    good as well as horrible puns, but would still make you laugh(Email for rishta). Most of his time otherwise is spent sleeping and thinking.
-    He has also run teams, organised quite a lot of events in his college fests: Saarang and Shaastra. Oh, he loves comics too, go stalk him on Instagram 
-    or ask him for some very good comic handles.
-    
+  <p style="font-family:helvetica;color: #ffffff ;font-size: 50px;text-align:center;">
+    <img class="img-circle" src="myphoto1.jpg" alt="A beautiful photo of mine was supposed to be here. But your internet is too bad to load it." style="height:25%;width:25%;">
+    <br>Hi there!
   </p>
 </body>
 
+<footer>
+  <div class="icon-bar">
+    <a href="https://www.linkedin.com/in/ajay-s-dinesh-aa6703138/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <!-- <a href=""><i class="fab fa-blogger"></i></a> -->
+    <a href="https://www.instagram.com/ajaysdinesh/" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.goodreads.com/user/show/57502036-ajay-s-dinesh" target="_blank"><i class="fab fa-goodreads"></i></a>
+    <a href="about.html" target="_blank"><i class="fas fa-info-circle"></i></a>
+  </div>
+</footer>
 </html>
