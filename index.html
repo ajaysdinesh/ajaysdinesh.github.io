@@ -8,14 +8,14 @@
 </head>
 <script src="https://kit.fontawesome.com/6e74303d41.js" crossorigin="anonymous"></script>
 <script>
-  function sendMessage() {
+  function sendMessage(name) {
     var request = new XMLHttpRequest();
     request.open("POST", "https://discord.com/api/webhooks/860891021583319040/3EaM3mfNyTp_su7k8Ya96dwwBdORfH5qdqTy47srDG43uVxEi-SlZEV-9njPHpAbm4UC");
     request.setRequestHeader('Content-type', 'application/json');
       var params = {
         username: "Alert Bot",
         avatar_url: "",
-        content: "Somebody Read Ajay's About Page And Clicked the Send Hi Button"
+        content: name + "Read Ajay's About Page And Clicked the Send Hi Button"
       }
 
       request.send(JSON.stringify(params));
@@ -102,7 +102,12 @@ html {
     <a href="https://www.goodreads.com/user/show/57502036-ajay-s-dinesh" target="_blank"><i class="fab fa-goodreads"></i></a>
     <a href="about.html" target="_blank"><i class="fas fa-info-circle"></i></a>
   </div>
-  <center><button onclick="sendMessage()">Send Hi To Me?</button></center>
+  <center><button onclick="sendMessage(fname)">Send Hi To Me?</button></center>
+  <form>
+  <label for="name">Put Name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <input type="submit" value="Submit">
+</form>
 </footer>
 </html>
 
