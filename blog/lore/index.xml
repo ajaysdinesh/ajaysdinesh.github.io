@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lore on Drawing Board</title>
+    <link>https://ajaysdinesh.github.io/blog/lore/</link>
+    <description>Recent content in Lore on Drawing Board</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Cospyright © 2026, Ajay S Dinesh</copyright>
+    <lastBuildDate>Fri, 03 Apr 2026 12:54:03 +0530</lastBuildDate>
+    <atom:link href="https://ajaysdinesh.github.io/blog/lore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Story of This Site</title>
+      <link>https://ajaysdinesh.github.io/story-of-this-site/</link>
+      <pubDate>Fri, 03 Apr 2026 12:54:03 +0530</pubDate>
+      <guid>https://ajaysdinesh.github.io/story-of-this-site/</guid>
+      <description>&lt;p&gt;I see nice personal websites and want one for myself.&lt;/p&gt;&#xA;&lt;p&gt;I want full control on how the site looks and feels.&lt;/p&gt;&#xA;&lt;p&gt;I want to get my hands dirty with some web development.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
