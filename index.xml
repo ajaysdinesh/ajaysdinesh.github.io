@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Cospyright © 2026, Ajay S Dinesh</copyright>
-    <lastBuildDate>Fri, 03 Apr 2026 12:54:03 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 12:10:52 +0530</lastBuildDate>
     <atom:link href="https://ajaysdinesh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adopting AI</title>
+      <link>https://ajaysdinesh.github.io/adopting-ai/</link>
+      <pubDate>Sat, 25 Apr 2026 12:10:52 +0530</pubDate>
+      <guid>https://ajaysdinesh.github.io/adopting-ai/</guid>
+      <description>&lt;p&gt;I have traditionally sucked at making other people work like I want. This is mostly because I like to be in complete control of how I do things and therefore expect everyone would prefer this independence for themselves.&#xA;When I see people do things inefficiently, I therefore face conflict, and usually end up showing them my efficient way of doing things and hope that they adopt it. Till now, this has been a more helping others initiative for myself rather than a responsibility. Now I need to show results.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Story of This Site</title>
       <link>https://ajaysdinesh.github.io/story-of-this-site/</link>
